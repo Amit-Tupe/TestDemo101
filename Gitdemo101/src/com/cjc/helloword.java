@@ -6,6 +6,10 @@ public class helloword
 	{
 		System.out.println("dislplay");
 	}
+	public void show()
+	{
+		System.out.println("show");
+	}
 public static void main(String[] args) 
 {
 	System.out.println("Hello git");
